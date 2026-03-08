@@ -268,7 +268,7 @@
           <!-- CARD 3 -->
           <div class="blog-card">
             <img
-              src="img\richardsdrawings-knight-8530654_1920.jpg"
+              src="img\sunriseforever-boys-3396713_1920.jpg"
               alt="berita3"
             />
             <div class="blog-content">

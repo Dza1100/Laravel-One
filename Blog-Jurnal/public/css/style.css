@@ -373,7 +373,7 @@ figure .sosials a:hover {
 /* Blog */
 .blog-section {
     padding: 100px 20px;
-    background: #f1f5f9;
+    background: #fff6f6;
 }
 
 .container {
@@ -458,3 +458,4 @@ figure .sosials a:hover {
 .btn:hover {
     opacity: 0.8;
 }
+
