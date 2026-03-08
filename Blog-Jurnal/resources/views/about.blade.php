@@ -19,9 +19,9 @@
   <body>
     <header>
       <nav>
-        <a href="#">THIS</a>
-        <a href="#">My</a>
-        <a href="#">STORY</a>
+        <a href="#">Blog</a>
+        <a href="#">Book</a>
+        <a href="#">Art</a>
       </nav>
     </header>
 
